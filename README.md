@@ -1,2 +1,2 @@
 # adventofcode
-AoC repo for housing my answers to every year, in the event my computer falls apart.
+AoC repo for housing my answers for every year I've done so far, in the event my computer falls apart.
